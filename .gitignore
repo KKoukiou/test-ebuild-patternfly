@@ -1,0 +1,4 @@
+dist/test.css
+dist/test.js
+node_modules
+package-lock.json
